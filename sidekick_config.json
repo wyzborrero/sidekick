@@ -1,0 +1,22 @@
+{
+  "default_model_path": "",
+  "lora_models_path": "./models/lora",
+  "checkpoint_path": "./checkpoints",
+  "output_path": "./output",
+  "temp_path": "./temp",
+  "default_learning_rate": 0.0001,
+  "default_batch_size": 4,
+  "default_epochs": 10,
+  "default_rank": 16,
+  "default_width": 512,
+  "default_height": 512,
+  "default_steps": 20,
+  "default_cfg_scale": 7.5,
+  "default_fps": 30,
+  "default_duration": 2.0,
+  "max_image_size": 2048,
+  "enable_gpu": true,
+  "gpu_memory_fraction": 0.8,
+  "show_advanced_options": false,
+  "auto_save_outputs": true
+}
